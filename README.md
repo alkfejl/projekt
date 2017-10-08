@@ -12,7 +12,7 @@ Készítette:
 
 #### Funkcionális követelmények:
 * Látogató:
-	* Kulbok böngészése
+	* Klubbok böngészése
 	* Zenekarok böngészése
 * Regisztrált látogató:
 	* Klubok és zenekarok keresése esetleg stílus alapján?
