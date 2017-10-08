@@ -42,3 +42,6 @@ Készítette:
 * Diszkográfia: A zenekar eddig kiadott hanganyagait tartalmazza. Beletartozik a nagylemez, kislemez és az egymagában kiadott dal, az úgynevezett single is.
 * Remaster: egy új "Master", amely többnyire a hangzás följavítására hivatott. Automatikusan megtörténik, ha analógból digitálisra változtatnak. A különbség azonban nem mindig észrevehetõ.
 * Sampler: Olyan bejátszások, elektronikus/szimfonikus alapok, melyeket a dalok lejátszásak közben felhasznál a zenekar. Ennek elindítása történhet laptop, telefon és midi-billentyűzet segítségével is.
+
+### 2. Adatbázis
+![Adatbázis](adatbazis.jpg)
