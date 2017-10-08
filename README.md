@@ -1,6 +1,6 @@
 # Dokumentáció
 
-## 
+## Beadandó feladat
 
 Készítette:
 * Kiss Gergő
@@ -21,15 +21,15 @@ A projekt egy olyan oldalt hivatott előkészíteni és megvalósítani, ami pla
 * Klub-Admin
 	* Klub adatlap létrehozása (max. 1 db)
 	* Klub adatainak szerkesztése
-	* Események létrehozása (?) .. pl.: mikor, ki lép fel
+	* Események létrehozása (pl.: mikor, ki lép fel)
 * Zenekar-Admin
 	* Zenekar adatlap létrehozása (max. 1 db)
 	* Zenekar adatainak szerkesztése
-	* Események létrehozása (?) .. pl.: hol, mikor lép fel
+	* Események létrehozása (pl.: hol, mikor lép fel)
 * Admin
-	* minden adathoz hozzáfér (?)
+	* minden adathoz és funkcióhoz hozzáfér
 		
-#### Nem funkcionális követelmények: (tippek régebbi projektleirásból)
+#### Nem funkcionális követelmények:
 * Felhasználóbarát, ergonomikus elrendezés különböző eszközökön is, kijelzőmérettől függetlenül.
 * Gyors és biztonságos működés.
 * Jelszavak biztonságos tárolása.
