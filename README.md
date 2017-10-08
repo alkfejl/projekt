@@ -36,5 +36,6 @@ Készítette:
 * Felhasználótípusnak megfelelő hozzáférési kör.
 
 #### Szakterületi fogalomjegyzék
-* ...
+* Backline: A színpadon a zenekar mögött helyet foglaló erõsítők (gitárládák), valamint a dob alapjának számító dobtesteket jelenti.
+* Backstage: Röviden öltöző. Ez az a szoba vagy terület, ahova csak a zenészek mehetnek be és ahol felkészülnek a koncert előtt, valamint pihennek a zenélés után.
 * ...
