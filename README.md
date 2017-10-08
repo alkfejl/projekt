@@ -41,3 +41,4 @@ Készítette:
 * Biográfia: Egy szöveges leírás, mely a zenekar történetét foglalja magába. Általában egy bő, hosszú leírás, amiben minden fontosabb mérföldkőről, tagcseréről és koncertről szó esik.
 * Diszkográfia: A zenekar eddig kiadott hanganyagait tartalmazza. Beletartozik a nagylemez, kislemez és az egymagában kiadott dal, az úgynevezett single is.
 * Remaster: egy új "Master", amely többnyire a hangzás följavítására hivatott. Automatikusan megtörténik, ha analógból digitálisra változtatnak. A különbség azonban nem mindig észrevehetõ.
+* Sampler: Olyan bejátszások, elektronikus/szimfonikus alapok, melyeket a dalok lejátszásak közben felhasznál a zenekar. Ennek elindítása történhet laptop, telefon és midi-billentyűzet segítségével is.
