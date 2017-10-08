@@ -8,7 +8,7 @@ Készítette:
 
 ### 1. Projektindító dokumentum
 
-(rövid leírás a dologról)
+A projekt egy olyan oldalt hivatott előkészíteni és megvalósítani, ami platformot biztosít a zenekarok és a klubok számára, hogy kommunikáljanak, megtalálják egymást és tájékozódni tudjanak a lehetőségeikről. Emellett természetesen segít mindenkinek egy helyre gyűjteni a zenei eseményeket és így egy átlátható listát nyújtani arról, hogy mégis hol milyen koncertek lesznek. Természetesen a klubok és zenekarok mellett így egy új lehetőség a zenét kedvelők számára is, ugyanis böngészhetnek a különböző események között, megnézhetik, hogy kedvenc zenekarok hol lép fel legközelebb, vagy a hozzájuk legközelebb lévő klubban mikor és kik fognak játszani.
 
 #### Funkcionális követelmények:
 * Látogató:
