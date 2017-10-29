@@ -7,6 +7,7 @@ A beállításoknál fontos megállapítani, hogy általában nem fogja magátó
 Használt technológiák?
 
 ### Adatbázis-terv: táblák kapcsolati UML diagramja
+![UML diagram](UML.png)
 ### Alkalmazott könyvtárstruktúra bemutatása
 ### Végpont-tervek és leírások
 ### 1 db végpont működésének leírása, mi történik, milyen lépések követik egymást (szekvenciadiagram)
