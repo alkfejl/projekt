@@ -1,0 +1,10 @@
+hello\repository\StudentRepository.class
+hello\controller\StudentController.class
+hello\controller\HelloController.class
+hello\model\User.class
+hello\model\Student.class
+hello\repository\UserRepository.class
+hello\service\StudentService.class
+hello\controller\GreetingController.class
+hello\Application.class
+hello\service\UserService.class
